@@ -1,0 +1,32 @@
+html{
+  min-width: 320px;
+}
+
+.container{
+  margin: 1%;
+}
+
+.header{
+  background: #48ff33;
+  border-radius: 10px;
+  padding: 20%;
+}
+
+.header p{
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+}
+
+.contents{
+  display: flex;
+  margin-top: 3%;
+}
+
+.animate h1{
+  font-size: 60px;
+}
+
+.contents__text{
+  font-size: 32px;
+}
